@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "sprite_sheet.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "ball_black": {
+      "__uuid__": "24fdd8ff-4366-44d9-a0df-a4dcfcfb0ec1"
+    },
+    "ball_red": {
+      "__uuid__": "eea703f9-d3f9-47f4-af08-cf8ee3f74cfd"
+    },
+    "ball_white": {
+      "__uuid__": "bf559375-94b0-44df-b463-558f8bce6279"
+    },
+    "ball_yellow": {
+      "__uuid__": "08f70a65-dfcf-4177-9caa-dba6d9c1200b"
+    },
+    "cue": {
+      "__uuid__": "7c35e826-6bba-4e58-bc80-f8f56f04fd6d"
+    },
+    "gameover": {
+      "__uuid__": "80e8ea82-3d0f-46e0-9b0d-7eee706efc55"
+    },
+    "logo": {
+      "__uuid__": "8b1ad49e-0fbb-492e-9357-76437024777b"
+    }
+  }
+}

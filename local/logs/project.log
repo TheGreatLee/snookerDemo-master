@@ -1,0 +1,32 @@
+2020-02-09T06:54:40.013Z - normal: Load ~/.CocosCreator/settings.json
+2020-02-09T06:54:41.190Z - normal: Initializing Asset Database
+2020-02-09T06:54:41.193Z - normal: checking language setting...
+2020-02-09T06:54:41.194Z - normal: Language: zh
+2020-02-09T06:54:42.182Z - success: preview server running at http://localhost:7456
+2020-02-09T06:54:42.182Z - success: protocol editor-framework registered
+2020-02-09T06:54:42.182Z - success: protocol app registered
+2020-02-09T06:54:42.182Z - success: protocol theme registered
+2020-02-09T06:54:42.182Z - success: protocol packages registered
+2020-02-09T06:54:42.182Z - success: protocol uuid registerred
+2020-02-09T06:54:42.182Z - success: protocol db registerred
+2020-02-09T06:54:42.182Z - success: protocol thumbnail registerred
+2020-02-09T06:54:42.182Z - success: protocol unpack registerred
+2020-02-09T06:54:42.182Z - success: protocol disable-commonjs registerred
+2020-02-09T06:54:42.292Z - normal: connected!
+2020-02-09T06:54:42.292Z - normal: Check project E:\桌面\前端汇总\SCDC\snookerDemo-master
+2020-02-09T06:54:42.292Z - normal: Initializing project E:\桌面\前端汇总\SCDC\snookerDemo-master
+2020-02-09T06:54:42.892Z - normal: Initializing Cocos2d
+2020-02-09T06:54:45.489Z - error: Error: 内置引擎加载失败，Creator 无法启动。
+    at Object.init (C:\Users\Administrator\Desktop\SCDC\CocosCreator\resources\app.asar\editor\lib\engine\browser.js:1:2382)
+    at Object.exports.startup (C:\Users\Administrator\Desktop\SCDC\CocosCreator\resources\app.asar\editor\index.js:1:740)
+    at <anonymous>
+    at process._tickDomainCallback (internal/process/next_tick.js:135:7)
+    at i.series.o (C:\Users\Administrator\Desktop\SCDC\CocosCreator\resources\app.asar\editor-framework\index.js:1:5268)
+    at C:\Users\Administrator\Desktop\SCDC\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at C:\Users\Administrator\Desktop\SCDC\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at C:\Users\Administrator\Desktop\SCDC\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:264:21
+    at C:\Users\Administrator\Desktop\SCDC\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at C:\Users\Administrator\Desktop\SCDC\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:723:17
+    at C:\Users\Administrator\Desktop\SCDC\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at Object.exports.startup (C:\Users\Administrator\Desktop\SCDC\CocosCreator\resources\app.asar\editor\index.js:1:797)
+    at <anonymous>

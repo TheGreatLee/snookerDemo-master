@@ -1,0 +1,10 @@
+{
+	"engine": "cocos-creator-js",
+	"packages": "packages",
+	"setting": {},
+	"appid": "wx810c2575899f55ef",
+	"projectname": "%E6%A1%8C%E7%90%838",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {}
+}
